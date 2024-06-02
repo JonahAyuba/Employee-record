@@ -1,0 +1,77 @@
+
+*{
+    
+
+color: white;
+background: rgb(0, 0, 0);
+
+}
+
+
+
+
+body{
+    cursor: pointer;
+   font-family:sans-serif;
+   font-weight: bolder;
+   color: blue;
+   
+
+ }
+
+ input{
+  width: 600px;
+  border-color:blue;
+  padding: 10px;
+}
+
+ .elon-musk{
+    color:blue;
+    font-family: impact;
+    font-size: 4vw;
+    font-weight: 100;
+    
+    
+  
+   
+    
+}
+
+.space-image{
+  float: left;
+  width: 600px;
+  height: 1270px;
+  margin-right: 15px;
+  object-fit: cover;
+  border-radius: 15px;
+}
+.submit{
+  width: 120px;
+}
+.onsubmit{
+  width: 70px;
+  border-color: blue;
+  padding: 10px;
+  margin-left: 10px;
+
+}
+label.logo{
+ 
+ color:blue ;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 80px;
+    padding: 80 100px;
+    border-radius: 50px;
+    border-color: red;
+    border: solid;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
